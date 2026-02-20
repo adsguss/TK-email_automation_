@@ -78,7 +78,7 @@ automacao-email-pedidos/
 ## 1️⃣ Clone o repositório
 
 bash
-git clone https://github.com/seuusuario/automacao-email-pedidos.git
+git clone [https://github.com/seuusuario/automacao-email-pedidos.git](https://github.com/adsguss/TK-email_automation_/tree/main)
 
 ----
 ----
