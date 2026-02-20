@@ -75,22 +75,30 @@ automacao-email-pedidos/
 
 ## ⚙️ Como Executar o Projeto
 
-### 1️⃣ Clone o repositório
+## 1️⃣ Clone o repositório
 
-```bash
+bash
 git clone https://github.com/seuusuario/automacao-email-pedidos.git
 
+----
+----
 
 ## 2️⃣ Acesse a pasta do projeto
-
 cd automacao-email-pedidos
 
-3️⃣ Instale as dependências
-pip install -r requirements.txt
-4️⃣ Execute o sistema
-python main.py
-🔐 Configuração do Gmail (Importante)
+----
 
+## 3️⃣ Instale as dependências
+pip install -r requirements.txt
+
+----
+
+## 4️⃣ Execute o sistema
+python main.py
+
+----
+
+# 🔐 Configuração do Gmail (Importante)
 Para utilizar a aplicação com Gmail:
 
 Ative a verificação em duas etapas na sua conta Google
@@ -99,9 +107,13 @@ Gere uma App Password
 
 Utilize essa App Password no campo de senha da aplicação
 
-⚠️ Nunca utilize sua senha principal do Gmail.
+---- 
 
-📊 Formato esperado do e-mail
+# ⚠️ Nunca utilize sua senha principal do Gmail.
+
+---- 
+
+# 📊 Formato esperado do e-mail
 
 O sistema identifica pedidos com o seguinte padrão no corpo da mensagem:
 
@@ -111,7 +123,10 @@ Quantidade: 2
 Valor: 150
 Data: 19/02/2026
 Telefone: 21999999999
-🎯 Objetivo do Projeto
+
+----
+
+# 🎯 Objetivo do Projeto
 
 O objetivo foi transformar um processo manual de leitura e digitação de pedidos em uma solução automatizada, reduzindo:
 
@@ -123,7 +138,9 @@ Erros humanos
 
 Atividades repetitivas
 
-📈 Possíveis Evoluções Futuras
+----
+
+# 📈 Possíveis Evoluções Futuras
 
 Filtragem apenas de e-mails não lidos
 
