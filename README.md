@@ -75,11 +75,14 @@ automacao-email-pedidos/
 
 ## ⚙️ Como Executar o Projeto
 
+----
+---- 
+
 ## 1️⃣ Clone o repositório
 
-bash
+
 git clone https://github.com/adsguss/TK-email_automation_/blob/main/main.py
-----
+
 ----
 
 ## 2️⃣ Acesse a pasta do projeto
